@@ -1,0 +1,11 @@
+Desafio 01: Buscar na documentação do Matplotlib como colocar um grid nos gráficos e adicionar nos gráficos de barra.
+
+Desafio 02: Fazer um gráfico e uma tabela do gasto dos outros estados em função do seu estado, ou qualquer outro de interesse.
+
+Desafio 03: Fazer o cálculo proporcional a população do seu estado e mais um a sua escolha.
+
+Desafio 04: Faça uma análise dos dados analisados, levante hipóteses e compartilhe com a gente no Discord.
+
+Desafio 05: Reproduza as análises feitas em aulas, refletindo e levantando hipóteses.
+
+Super Desafio: Escolha outro valor fora o valor aprovado no TABNET e explore estes dados. Esse será nosso projeto do módulo, mais detalhes no Desafio do módulo 1 na página do bootcamp.
